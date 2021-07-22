@@ -1,3 +1,4 @@
 # subdomain-shodan-finder
 
-this script get DNS records collected from shodan search engine then we can extract subdomains
+I just created a simple tool to extract Subdomains from Shodan DNS records .
+Shodan API key is required
