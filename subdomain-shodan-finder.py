@@ -3,7 +3,7 @@
     Author : ayadi mohammed
     Github account : ayadim
     script title : subdomain-shodan-finder
-    discription : this script get DNS records collected from shodan search engine then we can extract subdomains
+    discription : This script get Subdomains from DNS records collected from shodan.
 
 
     How it works 
