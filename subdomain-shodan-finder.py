@@ -17,7 +17,7 @@ import requests,json,sys
 #check command line input
 if len(sys.argv) != 2:
     print("Warning : You should add a domain")
-    print("Example : python3 subdomain-shodan-finder.py")
+    print("Example : python3 subdomain-shodan-finder.py domain.com")
     exit()
 
 
